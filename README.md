@@ -12,3 +12,5 @@ Underweight (<18.5)
 Normal weight (18.5 - 24.9)
 Overweight (25 - 29.9)
 Obese (30+)
+
+With WHO recommendations embedded
